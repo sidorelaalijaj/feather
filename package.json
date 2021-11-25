@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "feather app",
   "main": "index.js",
-  "scripts":  {
+  "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "author": "sidorela",
